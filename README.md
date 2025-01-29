@@ -18,7 +18,7 @@ To keep things consistent and slightly challenging, every implementation must:
 Want to add a new language? Follow these steps:  
 
 1. **Fork this repository**  
-2. **Add a new file** named `<language_name>.<extension>` inside the `/languages` directory  
+2. **Add a new file** named `<name>.<extension>` inside the `/languages/<language>` directory  
 3. **Follow the rules** and write your "Hello, World!" implementation  
 4. **Create a pull request** and describe what you added  
 
