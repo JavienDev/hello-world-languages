@@ -1,3 +1,4 @@
+![1](https://github.com/user-attachments/assets/14d0a51c-0421-454d-88ec-be285f611f54)
 # Hello, World! in Every Programming Language 🌍🚀
 
 Welcome to the **Hello, World!** repository! This project contains "Hello, World!" implementations in as many programming languages as possible. But with a twist! Instead of simply printing the text, each implementation must follow a few rules to make it a bit more interesting.  
